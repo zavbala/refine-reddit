@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+#popup {
+  padding: 1rem;
+  display: flex;
+  min-width: 400px;
+  min-height: 400px;
+  align-items: center;
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #0b1416;
+}
